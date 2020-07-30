@@ -1,4 +1,11 @@
-### Hi there 👋
+### 👋 Hi there.
+
+### 🌱 I’m currently learning english.
+
+### 📫 How to reach me: This is my [blog](https://blog.hvnobug.com/) website.
+
+![hvnobug](https://github.com/hvnobug/assets/blob/master/blog/album/dragon-ball-gif/3.gif?raw=true)
+
 
 <!--
 **hvnobug/hvnobug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
