@@ -4,11 +4,11 @@
 
 ### 📫 How to reach me: This is my [blog](https://blog.hvnobug.com/) website.
 
-![hvnobug](https://raw.githubusercontent.com/hvnobug/assets/master/blog/album/dragon-ball-gif/3.gif)
+<!-- ![hvnobug](https://raw.githubusercontent.com/hvnobug/assets/master/blog/album/dragon-ball-gif/3.gif) -->
 
 ### My Github stats
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=hvnobug&show_icons=true&theme=radical)
+![My github stats](https://github-readme-stats.vercel.app/api?username=hvnobug&show_icons=true)
 
 ### Recommend Repository
 
