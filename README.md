@@ -4,7 +4,7 @@
 
 ### 📫 How to reach me: This is my [blog](https://blog.hvnobug.com/) website.
 
-![hvnobug](https://github.com/hvnobug/assets/blob/master/blog/album/dragon-ball-gif/3.gif?raw=true)
+![hvnobug](https://raw.githubusercontent.com/hvnobug/assets/master/blog/album/dragon-ball-gif/3.gif)
 
 ### My Github stats
 
