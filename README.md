@@ -6,15 +6,15 @@
 
 <!-- ![hvnobug](https://raw.githubusercontent.com/hvnobug/assets/master/blog/album/dragon-ball-gif/3.gif) -->
 
-### My Github stats
+### 👯 My Github stats
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=hvnobug&show_icons=true)
 
-### Recommend Repository
+### 😄 Recommend Repository
 
 [![awesome-learning](https://github-readme-stats.vercel.app/api/pin/?username=hvnobug&repo=awesome-learning)](https://github.com/hvnobug/awesome-learning)
 
-### Most Used Language
+### ⚡ Most Used Language
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
